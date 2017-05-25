@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android-Security</string>
+    <string name="signature_key">Signature Key</string>
+    <string name="running_in_emulador">Running in Emulador</string>
+    <string name="running_in_debug">Running in Debug</string>
+    <string name="installed_from_the_playstore">Installed from the playstore</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="valid">VALID</string>
+    <string name="invalid">INVALID</string>
+</resources>
